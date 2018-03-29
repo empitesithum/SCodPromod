@@ -1,0 +1,1 @@
+copy config_mp.cfg "C:\Call of Duty 4 Multiplayer\players\profiles\SCodPromod\config_mp.cfg"
